@@ -10,6 +10,6 @@ The extension listen to DOM changes only on https://twitch.tv. The specific part
 3. Open up google chrome
 4. In the url bar type in: chrome://extensions
 5. Enable developer mode on the top right.
-6. Click on Load unpacked extension button and navigate to extracted version of the downloaded extension
+6. Click on Load unpacked extension button and navigate to extracted version of the downloaded extension. Select the src folder
 7. Reopen chrome and go to twitch.tv
 8. Type in chat Kappa. See what happens :)
