@@ -29,7 +29,7 @@ addObserverIfDesiredNodeAvailable();
 
 
 function addObserverIfDesiredNodeAvailable() {
-  var targetNode = document.querySelector("div.Layout-sc-nxg1ff-0.lgtHpz.chat-scrollable-area__message-container");
+  var targetNode = document.querySelector("div.Layout-sc-nxg1ff-0.haLUXJ.chat-scrollable-area__message-container");
   if(!targetNode) {
       //The node we need does not exist yet.
       //Wait 500ms and try again
